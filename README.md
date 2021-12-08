@@ -67,3 +67,5 @@ Disponivel em: https://spring.io/why-spring.
 Jesimar Arantes, Márcio Arantes, Herberth Frohlick, Laure Siret, and Renan Bonnard.
 A new unsupervised method for anomaly detection in time series based on statistical features for industrial predictive maintenance.
 International Journal of Data Science and Analytics, 2021.
+
+H. Y. Yang, E. Tempero and H. Melton, "An Empirical Study into Use of Dependency Injection in Java," 19th Australian Conference on Software Engineering (aswec 2008), 2008, pp. 239-247, doi: 10.1109/ASWEC.2008.4483212.
