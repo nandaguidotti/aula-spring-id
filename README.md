@@ -60,3 +60,10 @@ Levar em consideração os descontos do INSS e Imposto de Renda relacionado a fa
 
 ## Referências:
 
+VMware, Inc. or its affiliates.
+Spring.
+Disponivel em: https://spring.io/why-spring.
+
+Jesimar Arantes, M´arcio Arantes, Herberth Frohlick, Laure Siret, and Renan Bonnard.
+A new unsupervised method for anomaly detection in time series based on statistical features for industrial predictive maintenance.
+International Journal of Data Science and Analytics, 2021.
